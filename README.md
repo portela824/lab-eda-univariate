@@ -5,3 +5,4 @@ Objective: Explore the product listing dynamics on Amazon UK to extract actionab
 
 Data set: Amazon UK product dataset used for this lab : https://www.kaggle.com/datasets/asaniczka/uk-optimal-product-price-prediction/
 
+Code elaborated for this lab has been done in Jupyter Notebokk.
